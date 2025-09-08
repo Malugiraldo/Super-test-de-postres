@@ -13,6 +13,7 @@ html,
 body {
   margin: 0;
   padding: 0;
+  background-color: rgba(255, 188, 200, 0.753);
   
   
   /* Código para poner un cursor personalizado*/
@@ -23,6 +24,11 @@ body {
 
 h2 {
   font-size: 1.1em;
+   font-family: cursive;
+   font: weight 700px;
+    font-style: normal;
+    font-size: 5em;
+    text-align: center; 
 }
 
 #contenedor {
@@ -38,8 +44,8 @@ h2 {
 }
 
 #foto {
- height: 300px;
-  border: #ff7300 solid 5px;
+ height: 750px;
+  border: #ff498f solid 5px;
   margin-top: 15px;
 }
 

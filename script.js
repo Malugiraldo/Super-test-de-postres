@@ -1,17 +1,29 @@
 // Crear las listas de imágenes, títulos y frases
 const imagenes = [
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-3.jpg",
-  "https://www.postposmo.com/wp-content/uploads/2020/09/Especies-end%C3%A9micas-de-colombia-4.jpg",
+  "https://www.chewoutloud.com/wp-content/uploads/2023/08/Easy-Vanilla-Bean-Ice-Cream-No-Eggs-Vertical-e1692310374552.jpg",
+  "https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2025/07/Dubai_Chocolate_Brownies-3-2-edited.jpg",
+  "https://www.redpathsugar.com/sites/redpathsugar_com/files/styles/m/public/Churros_Dulce_de_Leche_500x400.jpg.webp?itok=skVoJhyp",
+  "https://i.notrefamille.com/1200x0/smart/2020/09/24/53061-large.jpg",
+  "https://www.kingarthurbaking.com/sites/default/files/2022-12/KABC_Quick-Breads_Blueberry-Muffin_08304.jpg",
+  "https://www.ourhomemadeeasy.com/wp-content/uploads/2025/04/Birthday-Cake-Shake-Featured-Image-735x735.png",
 ];
 
 const titulos = [
-  "Tortuga morrocoy",
-  "Ranita venenosa",
+  "Helado de Vainilla",
+  "Brownie de Chocolate Dubai",
+  "Churros",
+  "Pain Au Chocolat",
+  "Muffin de Arándanos",
+  "Malteada de Cumpleaños",
 ];
 
 const frases = [
-  "Te alimentas de plantas, frutas, hojas y flores. Vives en bosques de climas cálidos y prefieres la tierra que el agua.",
-  "Eres pequeña pero tu extravagancia no pasa desapercibida. Vives en bosques húmedos y lluviosos y tienes veneno en la piel.",
+  "Tu día estará marcado de simpliciad dulce y claridad. Hasta lo que parece más complicado se resolverá de manera más fácil de lo que pensabas. Consejo: a veces tu fuerza está en lo más básico",
+  "La abundancia y el lujo te rondan. Hoy es un buen día para atreverte a desear más sin sentir culpa. Consejo: permite que la vida te consienta, aunque sea en un detalle pequeño.",
+  " Tu energía se contagia. Habrá momentos de compartir y reír con otros que te traerán ligereza. Consejo: no te encierres, hoy tu buena vibra es un regalo para quienes te rodean.",
+  "La dualidad te acompaña: placer y disciplina, trabajo y descanso. Hoy deberás encontrar el equilibrio entre lo que deseas y lo que debes hacer. Consejo: un respiro en medio de la rutina te dará claridad.",
+  "Los frutos de tu esfuerzo comienzan a notarse, aunque en pequeño. Hoy recibirás una señal de progreso o reconocimiento. Consejo: celebra lo pequeño, porque anuncia lo grande.",
+  "Hoy tu día tiene un aire de renovación y celebración. Es buen momento para cerrar ciclos y abrir otros con alegría. Consejo: haz algo simbólico que te recuerde que cada día puedes empezar de nuevo.",
 ];
 
 // Trae los elementos del HTML que tienen ese id
