@@ -12,8 +12,9 @@ html {
 html,
 body {
   margin: 0;
-  padding: 0;
+  padding-top: 5vh;
   background-color: rgba(255, 188, 200, 0.753);
+
   
   
   /* Código para poner un cursor personalizado*/
@@ -21,13 +22,19 @@ body {
 
 }
 
+h1{
+  font-size: 2.5em;
+  font-family: oblique;
+  font-weight: bolder;
+  text-align: center;
+  font-style: italic;
+}
 
 h2 {
-  font-size: 1.1em;
+  font-size: 2.1em;
    font-family: cursive;
-   font: weight 700px;
+   font-weight:700px;
     font-style: normal;
-    font-size: 5em;
     text-align: center; 
 }
 
@@ -45,8 +52,8 @@ h2 {
 
 #foto {
  height: 750px;
-  border: #ff498f solid 5px;
-  margin-top: 15px;
+  border: #da3c79 solid 20px;
+  margin-top: 20px;
 }
 
 .tituloPrediccion {
@@ -55,6 +62,11 @@ h2 {
 
 .prediccion {
   font-size: 1.5em;
+    font-style: normal;
+    text-align: center; 
+    font-family: oblique;
+    background-color: rgb(255, 234, 246);
+    color:#a01946
 }
 
 .prediccion::first-letter {
@@ -63,7 +75,7 @@ h2 {
 
 #boton {
   font-size: 0.9em;
-  background-color: #3d00fdb5;
+  background-color: #a01946;
   color: white;
   margin-bottom: 2em;
   cursor: pointer;
